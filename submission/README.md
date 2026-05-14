@@ -24,4 +24,4 @@ streamlit run dashboard.py
 
 ### 6. Akses Dashboard
 Buka browser dan akses:
-http://localhost:8501/
+https://ecommerce-customer-analytics-submission.streamlit.app/
